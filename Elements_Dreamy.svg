@@ -1,0 +1,57 @@
+<svg width="500" height="250" viewBox="0 0 500 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="500" height="250" fill="url(#paint0_radial_283_663)"/>
+<path d="M500 250H0V0H500V250Z" fill="#0077CC" style="mix-blend-mode:soft-light"/>
+<path d="M500 40.4561L468.435 70.9941C466.179 73.1761 467.2 76.9868 470.244 77.749L500 85.1963V176.803L470.244 184.251C467.2 185.013 466.179 188.824 468.435 191.006L500 221.543V250H0V237.021L47.5654 191.006C49.8209 188.824 48.7999 185.013 45.7559 184.251L0 172.798V89.2012L45.7559 77.749C48.7999 76.9868 49.8209 73.1761 47.5654 70.9941L0 24.9775V0H500V40.4561Z" fill="#70A4DB" style="mix-blend-mode:soft-light"/>
+<circle cx="166" cy="75" r="50" fill="url(#paint1_radial_283_663)"/>
+<g filter="url(#filter0_gn_283_663)">
+<circle cx="258" cy="137" r="75" fill="url(#paint2_radial_283_663)"/>
+</g>
+<circle cx="415" cy="87" r="50" fill="url(#paint3_radial_283_663)"/>
+<circle cx="151" cy="125" r="25" fill="url(#paint4_radial_283_663)"/>
+<path d="M500 6.67383L420.139 83.9355C417.883 86.1177 418.904 89.9284 421.948 90.6904L500 110.226V151.773L421.948 171.31C418.904 172.072 417.883 175.882 420.139 178.064L494.495 250H387.233L379.828 247.884C377.822 247.311 375.919 248.352 375.12 250H140.88C140.081 248.352 138.178 247.311 136.172 247.884L128.767 250H21.5049L95.8613 178.064C98.1169 175.882 97.0962 172.072 94.0518 171.31L0 147.769V114.23L94.0518 90.6904C97.0962 89.9284 98.1169 86.1177 95.8613 83.9355L9.10156 0H86.7725L136.172 14.1162C139.189 14.9783 141.978 12.1892 141.116 9.17188L138.495 0H377.505L374.884 9.17188C374.022 12.1892 376.811 14.9783 379.828 14.1162L429.228 0H500V6.67383Z" fill="#1F3647" style="mix-blend-mode:soft-light"/>
+<path d="M342.726 38.7246C341.864 41.7421 344.654 44.5322 347.671 43.6699L440.687 17.0889C444.69 15.9451 447.559 20.915 444.568 23.8096L375.04 91.0742C372.784 93.2564 373.806 97.0671 376.85 97.8291L470.695 121.317C474.733 122.328 474.733 128.067 470.695 129.078L376.85 152.566C373.806 153.328 372.784 157.14 375.04 159.322L444.568 226.586C447.56 229.481 444.69 234.45 440.687 233.307L347.671 206.726C344.654 205.863 341.864 208.653 342.726 211.671L353.679 250H305.925L295.322 239.04C293.14 236.785 289.329 237.805 288.567 240.85L286.277 250H236.12L233.83 240.85C233.068 237.805 229.256 236.785 227.074 239.04L216.47 250H168.716L179.669 211.671C180.532 208.654 177.742 205.864 174.725 206.726L81.7085 233.307C77.7058 234.45 74.8367 229.48 77.8287 226.586L147.356 159.322C149.611 157.14 148.591 153.329 145.546 152.566L51.7007 129.078C47.6629 128.067 47.6629 122.328 51.7007 121.317L145.546 97.8291C148.591 97.0669 149.611 93.2562 147.356 91.0742L77.8287 23.8096C74.8368 20.915 77.7059 15.9452 81.7085 17.0889L174.725 43.6699C177.743 44.532 180.532 41.742 179.669 38.7246L168.604 0H216.087L227.074 11.3564C229.256 13.6119 233.068 12.5903 233.83 9.5459L236.219 0H286.177L288.567 9.5459C289.329 12.5902 293.14 13.6117 295.322 11.3564L306.308 0H353.793L342.726 38.7246Z" fill="#5FB4F1" style="mix-blend-mode:soft-light"/>
+<path d="M257.12 15.5032C258.13 11.4648 263.87 11.4648 264.88 15.5032L275.428 57.6443C276.19 60.6887 280.001 61.7099 282.183 59.4544L312.388 28.2328C315.283 25.2409 320.253 28.1104 319.109 32.1131L307.173 73.8822C306.31 76.8997 309.1 79.6896 312.118 78.8273L353.887 66.8912C357.89 65.7473 360.759 70.7175 357.767 73.612L326.546 103.817C324.29 105.999 325.311 109.81 328.356 110.572L370.497 121.12C374.535 122.13 374.535 127.87 370.497 128.88L328.356 139.428C325.311 140.19 324.29 144.001 326.546 146.183L357.767 176.388C360.759 179.283 357.89 184.253 353.887 183.109L312.118 171.173C309.1 170.31 306.31 173.1 307.173 176.118L319.109 217.887C320.253 221.89 315.283 224.759 312.388 221.767L282.183 190.546C280.001 188.29 276.19 189.311 275.428 192.356L264.88 234.497C263.87 238.535 258.13 238.535 257.12 234.497L246.572 192.356C245.81 189.311 241.999 188.29 239.817 190.546L209.612 221.767C206.717 224.759 201.747 221.89 202.891 217.887L214.827 176.118C215.69 173.1 212.9 170.31 209.882 171.173L168.113 183.109C164.11 184.253 161.241 179.283 164.233 176.388L195.454 146.183C197.71 144.001 196.689 140.19 193.644 139.428L151.503 128.88C147.465 127.87 147.465 122.13 151.503 121.12L193.644 110.572C196.689 109.81 197.71 105.999 195.454 103.817L164.233 73.612C161.241 70.7175 164.11 65.7473 168.113 66.8912L209.882 78.8273C212.9 79.6896 215.69 76.8997 214.827 73.8822L202.891 32.1131C201.747 28.1104 206.717 25.2409 209.612 28.2328L239.817 59.4544C241.999 61.7099 245.81 60.6887 246.572 57.6443L257.12 15.5032Z" fill="#D2ECFF" style="mix-blend-mode:overlay"/>
+<defs>
+<filter id="filter0_gn_283_663" x="179.2" y="58.2" width="157.6" height="157.6" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feTurbulence type="fractalNoise" baseFrequency="0.051813472062349319 0.051813472062349319" numOctaves="3" seed="9248" />
+<feDisplacementMap in="shape" scale="7.5999999046325684" xChannelSelector="R" yChannelSelector="G" result="displacedImage" width="100%" height="100%" />
+<feMerge result="effect1_texture_283_663">
+<feMergeNode in="displacedImage"/>
+</feMerge>
+<feTurbulence type="fractalNoise" baseFrequency="0.039525691419839859 0.039525691419839859" stitchTiles="stitch" numOctaves="3" result="noise" seed="1231" />
+<feColorMatrix in="noise" type="luminanceToAlpha" result="alphaNoise" />
+<feComponentTransfer in="alphaNoise" result="coloredNoise1">
+<feFuncA type="discrete" tableValues="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "/>
+</feComponentTransfer>
+<feComposite operator="in" in2="effect1_texture_283_663" in="coloredNoise1" result="noise1Clipped" />
+<feFlood flood-color="rgba(0, 0, 0, 0.25)" result="color1Flood" />
+<feComposite operator="in" in2="noise1Clipped" in="color1Flood" result="color1" />
+<feMerge result="effect2_noise_283_663">
+<feMergeNode in="effect1_texture_283_663" />
+<feMergeNode in="color1" />
+</feMerge>
+</filter>
+<radialGradient id="paint0_radial_283_663" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(250 125) rotate(90) scale(125 250)">
+<stop stop-color="#415868"/>
+<stop offset="1" stop-color="#1F3647"/>
+</radialGradient>
+<radialGradient id="paint1_radial_283_663" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(183.5 58) rotate(136.081) scale(74.9667)">
+<stop stop-color="#F1775F"/>
+<stop offset="1" stop-color="#BD2915"/>
+</radialGradient>
+<radialGradient id="paint2_radial_283_663" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(284.25 111.5) rotate(136.081) scale(112.45)">
+<stop stop-color="#C62DEC"/>
+<stop offset="1" stop-color="#710F8A"/>
+</radialGradient>
+<radialGradient id="paint3_radial_283_663" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(432.5 70) rotate(136.081) scale(74.9667)">
+<stop stop-color="#6B6B6B"/>
+<stop offset="1" stop-color="#1A1A1A"/>
+</radialGradient>
+<radialGradient id="paint4_radial_283_663" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(159.75 116.5) rotate(136.081) scale(37.4833)">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="#E0E0E0"/>
+</radialGradient>
+</defs>
+</svg>
